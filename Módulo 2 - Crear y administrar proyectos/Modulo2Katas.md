@@ -8,7 +8,7 @@ En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para
 
 Crea un entorno virtual mediante ``venv``
 
-* Ejecutar en su terminal: ``python3 -m venv env`` o bien ``python -m venv env``
+* Ejecutar en su terminal: ``python3 -m venv env`` o bien``
 
     ```
        python3 -m venv env 
